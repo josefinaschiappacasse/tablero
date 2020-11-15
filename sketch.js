@@ -1,4 +1,3 @@
-
 let sketch
 function setup() {
  sketch = createCanvas(800, 800);
