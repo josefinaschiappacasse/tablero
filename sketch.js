@@ -84,4 +84,4 @@ function ficha(x, y, diametro) {
   ellipse(x, y, diametro);
 
 
-}
+}*/
