@@ -43,12 +43,12 @@ h1{
 #iframe{
   margin: 150px;
   width: 80%;
-  max-width: 700px;
+  max-width: 700px; 
+  padding: 5px 10px;
 }
 
 p{color:rgb(0, 0, 0); 
   padding: 5px 80px;
-
 }
 
 footer{

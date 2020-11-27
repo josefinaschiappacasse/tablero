@@ -1,4 +1,4 @@
-let sketch
+/*let sketch
 function setup() {
  sketch = createCanvas(800, 800);
  sketch.parent("p5");
